@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Fabio Guelfi
+
+Who I am
+--------
+
+I'm a university student improving my skills in various programming languages, including C/C++, Java, JavaScript, Python, and Microsoft SQL Server. 
+This is my Github associated with the University, where I develop all projects requested as laboratory or assignments.
 <!--
 **fabiogueunige/fabiogueunige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
