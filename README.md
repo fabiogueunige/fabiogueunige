@@ -10,6 +10,10 @@ I'm a university student improving my skills in various programming languages, i
 This is my Github associated with the University, where I develop all projects requested as laboratory or assignments.
 
 My personal account is @fabbio0 where I have all my other projects.
+
+## Where I study
+I study [Robotics Engeneering in Università di Genova](https://corsi.unige.it/corsi/10635)
+![Genoa University Logo](https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA-610x610.jpg)
 <!--Fabio Guelfi -->
 
 <!--
