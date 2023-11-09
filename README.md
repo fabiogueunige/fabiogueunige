@@ -13,7 +13,7 @@ My personal account is @fabbio0 where I have all my other projects.
 
 ## Where I study
 I study [Robotics Engeneering in Università di Genova](https://corsi.unige.it/corsi/10635)
-![Genoa University Logo](https://github.com/fabiogueunige/fabiogueunige/images/assets/images/base-octocat.svg)
+![Genoa University Logo](https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA-610x610.jpg)
 <!--Fabio Guelfi -->
 
 <!--
