@@ -1,7 +1,15 @@
 ### Hi there 👋
+***
 
 
-### Fabio Guelfi
+# Fabio Guelfi
+***
+
+### Who I am
+I'm a university student improving my skills in various programming languages, including C/C++ and CSS, Java, JavaScript, Python, and Microsoft SQL Server. 
+This is my Github associated with the University, where I develop all projects requested as laboratory or assignments.
+
+My personal account is @fabbio0 where I have all my other projects.
 <!--Fabio Guelfi -->
 
 <!--
