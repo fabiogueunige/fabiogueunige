@@ -7,10 +7,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-  <title>Fabio Guelfi</title>
+  <title> Fabio Guelfi </title>
 </head>
 <body>
   <tr>
+    <td>  I'm a university student improving my skills in various programming languages, including C/C++, Java, JavaScript, Python, and Microsoft SQL Server. 
+    This is my Github associated with the University, where I develop all projects requested as laboratory or assignments.</td>
+    
     I'm a university student improving my skills in various programming languages, including C/C++, Java, JavaScript, Python, and Microsoft SQL Server. 
     This is my Github associated with the University, where I develop all projects requested as laboratory or assignments.
   </tr>
