@@ -12,8 +12,12 @@ This is my Github associated with the University, where I develop all projects r
 My personal account is @fabbio0 where I have all my other projects.
 
 ## Where I study
+
 I study [Robotics Engeneering in Università di Genova](https://corsi.unige.it/corsi/10635)
-![Genoa University Logo](https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA-610x610.jpg)
+
+  <img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="100" height="100">
+
+WORKING IN PROGRESS...
 <!--Fabio Guelfi -->
 
 <!--
