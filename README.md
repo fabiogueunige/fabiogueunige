@@ -1,13 +1,26 @@
 <div align="center">
 
-# 👋 Hi there, I'm Fabio Guelfi  
+# 👋 Hi there, I'm Fabio Guelfi
 
 </div>
 
-### 🤖 Robotics Engineering Student | University of Genoa
+<table>
+<tr>
+<td width="70%">
+
+### 🤖 Robotics Engineering Student 
+
+### University of Genoa - DIBRIS
 
 
-<img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="120" height="120">
+</td>
+<td width="30%" align="center">
+
+<img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="150" height="150">
+
+</td>
+</tr>
+</table>
 
 
 <div align="center">
