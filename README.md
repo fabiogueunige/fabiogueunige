@@ -1,45 +1,107 @@
-### Hi there 👋
-***
+<div align="center"><div align="center"><div align="center">### Hi there 👋
+
+  
+
+# 👋 Hi there, I'm Fabio Guelfi  
 
 
-# Fabio Guelfi
-***
 
-### Who I am
-I'm a university student improving my skills in various programming languages, including C/C++ and CSS, Java, JavaScript, Python, and Microsoft SQL Server. 
-This is my Github associated with the University, where I develop all projects requested as laboratory or assignments.
+### 🤖 Robotics Engineering Student | University of Genoa# 👋 Hi there, I'm Fabio Guelfi  ***
 
-My personal account is @fabbio0 where I have all my other projects.
 
-## Where I study
 
-I study [Robotics Engeneering in Università di Genova](https://corsi.unige.it/corsi/10635)
+<img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="120" height="120">
 
-  <img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="100" height="100">
 
-WORKING IN PROGRESS...
-<!--Fabio Guelfi -->
 
-<!--
-Create this page in html with some photos of the projects or something other
-But a good page in hatml
-Who I am
---------
-I'm a university student improving my skills in various programming languages, including C/C++, Java, JavaScript, Python, and Microsoft SQL Server. 
-    This is my Github associated with the University, where I develop all projects requested as laboratory or assignments.
--->
+[![Personal GitHub](https://img.shields.io/badge/Personal-@fabbio0-181717?style=for-the-badge&logo=github)](https://github.com/fabbio0)### 🤖 Robotics Engineering Student | University of Genoa# 👋 Ciao, sono Fabio Guelfi
 
-<!--
-**fabiogueunige/fabiogueunige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+
+---<img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="120" height="120">
+
+
+
+## 📚 About Me
+
+
+
+I'm a **[Robotics Engineering](https://corsi.unige.it/corsi/10635)** student at the University of Genoa, passionate about programming and technology. This is my university GitHub profile where I share academic projects, labs, and assignments.[![Personal GitHub](https://img.shields.io/badge/Personal-@fabbio0-181717?style=for-the-badge&logo=github)](https://github.com/fabbio0)### 🤖 Studente di Ingegneria Robotica | Università di Genova# Fabio Guelfi
+
+
+
+
+
+## 💻 Tech Stack</div>***
+
+
+
+```text
+
+Languages:  C/C++ | Java | JavaScript | Python | SQL | ROS
+
+Databases:  Microsoft SQL Server---<img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="120" height="120">
+
+Tools:      Git | VS Code
+
+Focus:      Robotics | Automation | Software Development
+
+```
+
+## 📚 About Me### Who I am
+
+## 🚀 Current Focus
+
+
+
+<!-- ✏️ EDIT HERE: Add what you're currently working on -->
+
+- 🔭 Currently working on: **[my thesis](https://github.com/fabiogueunige/TerrainFollowingThesis.git)**I'm a **[Robotics Engineering](https://corsi.unige.it/corsi/10635)** student at the University of Genoa, passionate about programming and technology. This is my university GitHub profile where I share academic projects, labs, and assignments.[![Personal GitHub](https://img.shields.io/badge/Personal-@fabbio0-181717?style=for-the-badge&logo=github)](https://github.com/fabbio0)I'm a university student improving my skills in various programming languages, including C/C++ and CSS, Java, JavaScript, Python, and ROS. 
+
+- 🌱 Learning: **[in progress]**
+
+- 📚 Studying: **[in progress]**
+
+
+
+## 🎯 GoalsThis is my Github associated with the University, where I develop all projects requested as laboratory or assignments.
+
+
+
+- 🔧 Develop advanced skills in robotics and automation
+
+- 📊 Master algorithms and data structures
+
+- 🤝 Contribute to open source projects## 💻 Tech Stack</div>
+
+- 🌱 Continuous growth in software engineering
+
+
+
+## 📫 Connect With Me
+
+```text
+
+<div align="center">
+
+Languages:  C/C++ | Java | JavaScript | Python | ROS
+
+[![GitHub University](https://img.shields.io/badge/GitHub_Uni-fabiogueunige-100000?style=flat&logo=github&logoColor=white)](https://github.com/fabiogueunige)
+
+[![GitHub Personal](https://img.shields.io/badge/GitHub_Personal-fabbio0-100000?style=flat&logo=github&logoColor=white)](https://github.com/fabbio0)Databases:  Microsoft SQL Server---
+
+
+
+<!-- ✏️ EDIT HERE: Add your contact links (LinkedIn, Email, etc.) -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-guelfi)
+
+Focus:      Robotics | Automation | Software Development## Where I study
+
+</div>
+
+```
