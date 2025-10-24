@@ -12,7 +12,7 @@
 
 ### 🤖 Robotics Engineering Student 
 
-### ⚙️ I love everything that moves, even more if it’s powered.
+### ⚙️ I love everything that moves - even more if it’s powered.
 
 <br clear="right"/>
 
