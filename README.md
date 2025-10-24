@@ -2,11 +2,9 @@
 
 # 👋 Hi there, I'm Fabio Guelfi
 
-</div>
-
-<table>
+<table border="0" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="70%">
+<td width="70%" style="border: none;">
 
 ### 🤖 Robotics Engineering Student 
 
@@ -14,7 +12,7 @@
 
 
 </td>
-<td width="30%" align="center">
+<td width="30%" align="center" style="border: none;">
 
 <img src="https://github.com/fabiogueunige/fabiogueunige/blob/images/LOGO-universita-GENOVA.png" alt="Genoa University Logo" width="150" height="150">
 
@@ -22,6 +20,7 @@
 </tr>
 </table>
 
+</div>
 
 <div align="center">
   
