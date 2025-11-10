@@ -32,7 +32,7 @@ I'm a **[Robotics Engineering](https://corsi.unige.it/corsi/10635)** student at 
 
 <!-- ✏️ EDIT HERE: Add your contact links (LinkedIn, Email, etc.) -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Guelfi-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-guelfi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Guelfi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-guelfi)
 
 
 ### 💻 Tech Stack
@@ -107,4 +107,4 @@ Focus:      Robotics | Automation | Software Development
 
 ### ⚠️ Disclaimer
 
-⚠️ Some README sections and code comments were generated with GitHub Copilot and may contain mistakes.
+Some README sections and code comments were generated with GitHub Copilot and may contain mistakes.
